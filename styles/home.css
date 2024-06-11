@@ -134,7 +134,8 @@ iframe button {
   top: 50%;
   transform: translate(-25%, -50%);
   z-index: 1;
-  color: var(--primary-blue);
+  color: rgb(174, 186, 255);
+  font-weight: bold;
 }
 
 .Btn:active {

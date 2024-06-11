@@ -17,7 +17,7 @@ const Venue = () => {
           <div className="date">
             <h2>Date and Time</h2>
             <p>
-              15 - 16 September 2023
+              29 - 30 August, 2024
               <br />
               10 AM Onwards
             </p>
@@ -25,7 +25,7 @@ const Venue = () => {
           <div className="extra-info">
             <h2>Extra information</h2>
             <p>
-              Amidst the celestial expanse, the chosen venue for our epic event awaits. Embark on a journey through hyperspace and navigate to the Galactic Gathering Point. Let the Force guide your path as you join us in the cosmic celebration of innovation and inspiration. May the stars be your guide! 🌌✨
+              Ahoy, brave hearts! Venture forth to claim yer bounty at the hidden lair of innovation! Follow the compass needle to where the winds whisper secrets and the waves hum tales of riches. Yo ho ho, the spoils await those bold enough to seek 'em!
             </p>
           </div>
         </div>

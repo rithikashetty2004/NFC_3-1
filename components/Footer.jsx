@@ -78,6 +78,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
+      
       <div className="footer-ke-neeche">
         <p>Made with ❤️ by the Team CodeTantra</p>
       </div>

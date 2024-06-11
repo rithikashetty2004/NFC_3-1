@@ -2,11 +2,11 @@ export const infoConfig = {
   wihts: [
     {
       id: "1",
-      data: "Welcome to TSEC CodeTantra's flagship event, Need For Code 2.0! Embracing the future, we are thrilled to present this year's edition in a dynamic hybrid mode, uniting over 400 participants in a celebration of innovation and collaboration.Need For Code 2.0 stands as a testament to our commitment to pushing boundaries and shaping a brighter tomorrow. Our mission is to create a dynamic and collaborative platform where participants can come together and harness their collective creativity to tackle real-life challenges by devising innovative solutions. We aim to encourage ingenious thinking that addresses a diverse range of problems effectively.",
+      data: "Welcome to TSEC CodeTantra's flagship event, Need For Code 3.0! Embracing the future, we are thrilled to present this year's edition in a dynamic hybrid mode, uniting over 400 participants in a celebration of innovation and collaboration.Need For Code 3.0 stands as a testament to our commitment to pushing boundaries and shaping a brighter tomorrow. Our mission is to create a dynamic and collaborative platform where participants can come together and harness their collective creativity to tackle real-life challenges by devising innovative solutions. We aim to encourage ingenious thinking that addresses a diverse range of problems effectively.",
     },
     {
       id: "2",
-      data: "Join us on this exhilarating quest as we build a legacy of innovation and create solutions that shape the future.\n Need For Code 2.0 – where ideas converge and possibilities unfold!",
+      data: "Join us on this exhilarating quest as we build a legacy of innovation and create solutions that shape the future. Need For Code 3.0 – Where Pirates Innovate and Code Sails!",
     },
   ],
   about: [

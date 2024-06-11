@@ -18,12 +18,12 @@ const Preloader = () => {
         <div className="text-container">
           <svg
             className="text-stroke"
-            viewBox="0 0 900 100"
-            width="80%"
+            viewBox="0 0 1000 100"
+            width="90%"
             height="100%"
           >
-            <text className="text" x="20" y="75">
-              NEED FOR CODE 2.0
+            <text className="text" x="0" y="75">
+              NEED FOR CODE 3.0
             </text>
           </svg>
         </div>

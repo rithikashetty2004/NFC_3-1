@@ -13,7 +13,7 @@ const Wihts = () => {
       data-wow-duration="1s"
     >
       <div className="abbox">
-        <h2 className="section-title">WHAT IS NEED FOR CODE 2.0?</h2>
+        <h2 className="section-title">WHAT IS NEED FOR CODE 3.0?</h2>
         <div className="paraDiv" style={{ zIndex: 100 }}>
           {wihts.map((d, index) => (
             <React.Fragment key={d.id}>
@@ -21,7 +21,7 @@ const Wihts = () => {
               <p key={d.id}>{d.data}</p>
             </React.Fragment>
           ))}
-          <p>
+          {/*<p>
             {Hackathon.data}
             <Link
               target="_blank"
@@ -30,7 +30,7 @@ const Wihts = () => {
             >
               here..
             </Link>
-          </p>
+          </p>*/}
 
           <div className="frm">
             <img
