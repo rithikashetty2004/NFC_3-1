@@ -28,8 +28,9 @@ const index = () => {
       <Domains />
       <Wihts />
       <Journey />
-      <Venue />
       <Schedule />
+      <Venue />
+      
       {/* <Tracks /> */}
       <Sponsor />
       {/* <WhySponsor /> */}

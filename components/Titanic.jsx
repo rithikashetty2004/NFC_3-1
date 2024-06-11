@@ -15,7 +15,7 @@ const Titanic = () => {
             },
           },
           color: {
-            value: '#00a2ff',
+            value: '#5089A8',
           },
           opacity: {
             value: 0.8,
@@ -28,7 +28,7 @@ const Titanic = () => {
             },
           },
           size: {
-            value: 2,
+            value: 10,
             random: true,
             anim: {
               enable: false,
