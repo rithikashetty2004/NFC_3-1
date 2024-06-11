@@ -5,6 +5,7 @@ import Navbar from "./Navbar";
 import Footer from "./Footer";
 import ThreeScene from "./ThreeScene";
 import BackToTop from "./Home/BackToTop";
+import Titanic from "./Titanic";
 
 const Layout = ({ children }) => {
   return (
@@ -77,7 +78,8 @@ const Layout = ({ children }) => {
       </Head>
 
       <Navbar />
-      <ThreeScene />
+      {/*<ThreeScene />*/}
+      <Titanic />
       {/* <BackToTop /> */}
       <main>{children}</main>
 

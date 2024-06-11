@@ -40,12 +40,12 @@ const Landing = () => {
       style={{ minHeight: "100vh", color: "#fff" }}
     >
       <div className="cost1">
-        <img src="./images/home/constellation1.png" alt="NFC3" />
+        <img src="./images/pirates/pirate01.png" alt="NFC3" />
       </div>
       <div className="logo-div">
         <div className="logo-home">
           <img
-            src="./images/nfc_logo.png"
+            src="./images/lol.png"
             alt="Need For Code 3.0 Hackathon Constellation"
             priority={true}
             sizes="100%"
@@ -109,7 +109,7 @@ const Landing = () => {
       </div>
       <div className="cost2">
         <img
-          src="./images/home/constellation2.png"
+          src="./images/pirates/pirate02.png"
           alt="Hack the space Hackathon Constellation"
         />
       </div>
