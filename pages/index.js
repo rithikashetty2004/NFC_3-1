@@ -9,6 +9,7 @@ import Journey from "../components/Home/Journey";
 import Preloader from "../components/Home/Preloader";
 import Venue from "../components/Home/Venue";
 import Sponsor from "../components/Sponsor";
+{/* import Countdown from "../components/Countdown"; */}
 import "animate.css";
 
 const index = () => {
@@ -24,10 +25,11 @@ const index = () => {
       {/* Animation */}
       <Preloader />
       <Landing />
+      {/* <Countdown /> */}
       {/* About */}
-      <Domains />
       <Wihts />
       <Journey />
+      <Domains />
       <Schedule />
       <Venue />
       
