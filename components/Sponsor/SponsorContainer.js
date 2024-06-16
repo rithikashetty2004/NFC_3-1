@@ -23,7 +23,6 @@ const SponsorContainer = ({ Name, Img, Type, children, wid }) => {
         >
           {Type}
         </h2>
-        
         <hr className={`right-hr ${wid}`} />
       </div>
       <div className="wrapper">{children}</div>
