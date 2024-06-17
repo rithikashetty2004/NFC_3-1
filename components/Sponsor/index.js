@@ -1,9 +1,10 @@
 import SectionLayout from "../SectionLayout";
 import { sponsorConfig } from "../../config/sponsor";
 import SponsorContainer from "./SponsorContainer";
+import SponsorWrapper from "./SponsorWrapper";
 import Image from "next/image";
 
-const SponsorWrapper = ({ Img, Name }) => {
+{/*const SponsorWrapper = ({ Img, Name }) => {
   return (
     <div className="card">
       <div className="pic">
@@ -16,7 +17,7 @@ const SponsorWrapper = ({ Img, Name }) => {
       </div>
     </div>
   );
-};
+};*/}
 
 const Sponsor = () => {
   const { gold, silver, bronze, inkind, hiringPartner, mediaPartner } = sponsorConfig;

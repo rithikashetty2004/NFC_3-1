@@ -234,3 +234,25 @@
     right: 3%;
   }
 }
+
+
+
+.card {
+  perspective: 1000px;
+  margin: 20px;
+  transition: transform 0.2s ease;
+}
+
+.card .pic {
+  transform-style: preserve-3d;
+  transition: transform 0.2s ease;
+  will-change: transform;
+}
+
+.card-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
